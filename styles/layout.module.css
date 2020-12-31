@@ -1,0 +1,8 @@
+.mainContainer{
+    position: absolute;
+    top: 10vh;
+    /* background-color: yellowgreen; */
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
